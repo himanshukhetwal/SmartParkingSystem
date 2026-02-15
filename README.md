@@ -108,7 +108,3 @@ Through this project, the following skills were developed:
 B.Tech Computer Science Engineering  
 Graphic Era Hill University
 
----
-
-## 📄 License
-This project is developed for educational purposes only.
